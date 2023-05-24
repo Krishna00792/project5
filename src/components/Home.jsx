@@ -36,7 +36,7 @@ const Home = () => {
             As a React.js developer, our mission is to build innovative and user-friendly web applications using the 
             power of React.js, a popular JavaScript library for building user interfaces.
              We are passionate about crafting exceptional digital experiences that not only meet the needs of our
-           clients but also delight the end users
+           clients but also delight the end users and clients. 
           </p>
         </div>
       </div>
