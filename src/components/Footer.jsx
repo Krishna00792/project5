@@ -4,8 +4,8 @@ const Footer = () => {
   return (
     <footer>
       <div>
-        <h1>TechyStar</h1>
-        <p>@all right reserved</p>
+        <h1>Techacker</h1>
+        <p> Copyright © 2023 Techacker Inc. All rights reserved.</p>
       </div>
 
       <div>
