@@ -33,12 +33,10 @@ const Home = () => {
         <div>
           <h1>About Us</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis
-            officiis hic illo quos sit commodi, aut magnam odio eligendi? Totam
-            quis officiis fugit sunt dolores nostrum tenetur iusto est odio
-            mollitia.et? Aliquid nemo nesciunt placeat,
-            qui fuga quae repellat sunt, non natus, iure ab officia rem ipsa cum
-            sed cumque corporis voluptate quibusdam nostrum quod saepe
+            As a React.js developer, our mission is to build innovative and user-friendly web applications using the 
+            power of React.js, a popular JavaScript library for building user interfaces.
+             We are passionate about crafting exceptional digital experiences that not only meet the needs of our
+              clients but also delight the end users.
           </p>
         </div>
       </div>
