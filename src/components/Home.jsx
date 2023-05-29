@@ -5,7 +5,11 @@ import {
   AiFillAmazonCircle,
   AiFillYoutube,
   AiFillInstagram,
+  
 } from "react-icons/ai";
+import {
+  FaGoogle
+} from "react-icons/fa"
 
 const Home = () => {
   return (
@@ -51,7 +55,7 @@ const Home = () => {
                 animationDelay: "0.3s",
               }}
             >
-              <AiFillGoogleCircle />
+              <FaGoogle />
               <p>Google</p>
             </div>
 
